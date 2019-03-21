@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Lohit_test" max_length="40" name="x_149604_test_appl_lohit_test" type="collection">
+        <element label="FristName" max_length="1000" name="fristname" type="string"/>
+        <element label="LastName" max_length="1000" name="lastname" type="string"/>
+        <element display="true" label="password" max_length="255" name="password" type="password2"/>
+    </element>
+</database>
